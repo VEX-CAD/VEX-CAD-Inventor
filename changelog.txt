@@ -1,7 +1,7 @@
 VEX CAD Library V1.2
 
 Check the FAQ here!
-https://docs.google.com/document/d/1L76qIpu4yYBIky6C0hUZHSVPCJQP0MWUFiClaU-3aVo/edit?usp=sharing
+https://github.com/VEX-CAD/VEX-CAD-Inventor/wiki
 
 If you want to join the community, or have any questions, join our Discord!
 https://discord.gg/BKV3DJm
