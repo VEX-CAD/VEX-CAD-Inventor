@@ -1,3 +1,6 @@
+|[Discord](https://discord.gg/BKV3DJm)|[BLRS Wiki](https://wiki.purduesigbots.com/hardware/vex-cad/inventor)|[Latest Release](https://github.com/VEX-CAD/VEX-CAD-Inventor/releases/latest)|[FAQ](https://github.com/VEX-CAD/VEX-CAD-Inventor/wiki)
+|---|---|---|---|
+
 # Inventor Library
 ## [Latest Release: 1.3.0](https://github.com/VEX-CAD/VEX-CAD-Inventor/releases/latest)
 
@@ -11,6 +14,9 @@ Please read the [FAQ](https://github.com/VEX-CAD/VEX-CAD-Inventor/wiki) if you'r
 
 ## [VEX CAD Discord](https://discord.gg/BKV3DJm)
 If you need more help, or would like assistance from experienced users, please ask in our [discord server](https://discord.gg/BKV3DJm)!
+
+## [Change Log](https://github.com/VEX-CAD/VEX-CAD-Inventor/blob/main/changelog.txt)
+To see everything changed between versions, check the [changelog](https://github.com/VEX-CAD/VEX-CAD-Inventor/blob/main/changelog.txt)!
 
 ## Inventor Library Contributors
  - Boots - 1961Z
