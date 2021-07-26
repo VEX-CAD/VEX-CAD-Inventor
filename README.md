@@ -22,8 +22,10 @@ If you need more help, or would like assistance from experienced users, please a
 ## Inventor Library Contributors
  - Boots - 1961Z
  - Charlie - BCUZ
+ - Jake - 62A
  - Jess - EZ
  - Jordan - BNS
  - Leo - 2616N
+ - Max - 91A
  - Sid - 5776A
  - Yuanyang - 1721G
