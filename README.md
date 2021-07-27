@@ -10,7 +10,7 @@ This library includes every length of metal, commonly used cut metal, constructi
 The recommended file structure is to have a CAD folder anywhere on your computer, and place the [latest release](https://github.com/VEX-CAD/VEX-CAD-Inventor/releases/latest) in this folder. Every new robot you create will be a new folder in the CAD folder.
 
 ## [Change Log](https://github.com/VEX-CAD/VEX-CAD-Inventor/blob/main/changelog.txt)
-This is a quality of life update including shorter metal names, sizing tools, fixed shafts, smooth screws, and all of the new parts over the past year.  It is **NOT** compatable with previous versions. 
+This is a quality of life update including shorter metal names, sizing tools, fixed shafts, smooth screws, and all of the new parts over the past year.  It is **NOT** compatable with previous versions.  
 To see everything changed between versions, check the [changelog](https://github.com/VEX-CAD/VEX-CAD-Inventor/blob/main/changelog.txt)!
 
 ## [FAQ](https://github.com/VEX-CAD/VEX-CAD-Inventor/wiki)
