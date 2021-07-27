@@ -12,16 +12,49 @@ place the iw_metal_02 file in your:
 Do this with your Inventor closed, and open it after the file is there.
 
 Thank you to the following contributors:
--Jordan
--Sid
--Yuanyang
--Jess
--Charlie
--Boots
--Leo
+ -Boots - 1961Z
+ -Charlie - BCUZ
+ -Jake - 62A
+ -Jess - EZ
+ -Jordan - BNS
+ -Leo - 2616N
+ -Max - 91A
+ -Sid - 5776A
+ -Yuanyang - 1721G
 
 
 CHANGELOG
+V1.3
+ Quality of Life
+ -Generated all iParts
+ -Renamed parts for consistency
+ 
+ Electronics 
+ -Added GPS, optical, rotation, distance, and potentiometer v2
+ -Motors with Screws
+ 
+ Misc
+ -Created this directory
+ -Sizing tool for 15", 18" and 24"
+ -License Plates
+ -iw_metal_02.bmp
+ 
+ Motion
+ -Added missing bevel gears and other advanced motion parts
+ -Black nylon spacers
+ -New HS and LS shaft
+ -New HS bushings and clamping collar 
+ -Reverted back to 1.1.1 chain generator
+ 
+ Hardware
+ -2.25" and 2.5" steel screws
+ -Robosource shoulder screws
+ -Black nylon screws
+ -Nylon hex screws
+ -iPart coupler
+ -Bent rubber link
+ 
+ 
 V1.2
  General
  -Cleaned file structure
