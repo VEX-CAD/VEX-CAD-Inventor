@@ -1,4 +1,4 @@
-VEX CAD Library V1.2
+VEX CAD Library V1.3
 
 Check the FAQ here!
 https://github.com/VEX-CAD/VEX-CAD-Inventor/wiki
@@ -27,30 +27,31 @@ CHANGELOG
 V1.3
  Quality of Life
  -Generated all iParts
- -Renamed parts for consistency
- 
+ -Implemented consistent naming scheme
+
  Electronics 
- -Added GPS, optical, rotation, distance, and potentiometer v2
- -Motors with Screws
+ -Added GPS, optical, rotation, distance, and potentiometer V2 sensors
+ -Motors with screws
  
  Misc
  -Created this directory
- -Sizing tool for 15", 18" and 24"
- -License Plates
+ -Sizing tools for 15", 18" and 24" robots
+ -License plates relocated from structure
  -iw_metal_02.bmp
  
  Motion
  -Added missing bevel gears and other advanced motion parts
  -Black nylon spacers
- -New HS and LS shaft
+ -New HS and LS shaft models
  -New HS bushings and clamping collar 
  -Reverted back to 1.1.1 chain generator
  
  Hardware
- -2.25" and 2.5" steel screws
+ -0.29", 2.25" and 2.5" steel screws
  -Robosource shoulder screws
  -Black nylon screws
- -Nylon hex screws
+ -Nylon hex head screws
+ -Threadless screw models now available by default
  -iPart coupler
  -Bent rubber link
  
