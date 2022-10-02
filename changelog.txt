@@ -1,4 +1,4 @@
-VEX CAD Library V1.3
+VEX CAD Library V1.4
 
 Check the FAQ here!
 https://github.com/VEX-CAD/VEX-CAD-Inventor/wiki
@@ -25,50 +25,50 @@ Thank you to the following contributors:
 
 CHANGELOG
 V1.4
-Structure:
- - Remodeled Angles, C Channels, and Plates from sheetmetal to correct errors in VEX models 
- - Updated metal thicknesses to 1/16" for aluminum and 3/64" for steel
- - Remodeled C-Channel coupler to match updated C-Channel models
- - Added standoff retainers
- - Added V5 flywheel weight
- - Added new gussets
- - iPart nylon nut
- - Removed aluminum and nylon hardware in accordance with latest RECF rulings
- - Reduced diameter of construction cylinders slightly to improve visual clarity when exporting to 3rd party rendering software
+ Electronics:
+ -Added new sensors
+ -Retextured some existing electronics
+ -Deleted internal geometry from V5 motor and brain
 
-Motion:
- - Fixed naming inconsistencies (i.e. Plastic Lock Bar vs Lock Bar Plastic)
- - Added 6P chain/chain generator/sprockets
- - Renamed sprockets to 3P/6P/9P consistent with new VEX listings
- - Added new gears
- - Added HS bushings
- - Added ball bearing
- - Added HS pillow bearing block
- - Added LS capped shafts
- - Added clip on spacers
- - Added antistatic wheels
- - Added 2" mecanum wheels
- - iAssembly sprockets with new inserts
- - iPart shaft collars
- - iAssembly wheels
- - iAssembly gears with new inserts
- - Fixed LS shaft origin planes
- - Fixed Origin plane on 9P chain and wheels
+ Motion:
+ -Fixed naming inconsistencies (i.e. Plastic Lock Bar vs Lock Bar Plastic)
+ -Added 6P chain/chain generator/sprockets
+ -Renamed sprockets to 3P/6P/9P consistent with new VEX listings
+ -Added new gears
+ -Added HS bushings
+ -Added ball bearing
+ -Added HS pillow bearing block
+ -Added LS capped shafts
+ -Added clip on spacers
+ -Added antistatic wheels
+ -Added 2" mecanum wheels
+ -iAssembly sprockets with new inserts
+ -iPart shaft collars
+ -iAssembly wheels
+ -iAssembly gears with new inserts
+ -Fixed LS shaft origin planes
+ -Fixed Origin plane on 9P chain and wheels
 
-Pneumatics(In motion, but a lot of changes):
- - Retextured Fittings for Cylinders, Reservoir, and Valves 
- - Retextured Solenoids
- - Added Piston Nut
- - Added and textured Pressure Regulator from SMC
- - Replaced and textured On Off Switch from SMC file
- - Replaced and textured Flow Meter
- - Replaced Cylinder Mount and added Cylinder Rod Pivot
- - Replaced and textured Pistons with a constraint set for easy assembly use
+ Pneumatics (in motion, but a lot of changes):
+ -Retextured fittings for cylinders, reservoir, and valves 
+ -Retextured solenoids
+ -Added piston nut
+ -Added and textured pressure regulator from SMC
+ -Replaced and textured on/off switch from SMC
+ -Replaced and textured flow meter
+ -Replaced cylinder mount and added cylinder rod pivot
+ -Replaced and textured pistons with a constraint set for easy assembly use
 
-Electronics:
- - Added new sensors
- - Retextured some existing electronics
- - Deleted internal geometry from V5 motor and brain
+ Structure:
+ -Remodeled Angles, C Channels, and Plates from sheetmetal to correct errors in VEX models 
+ -Updated metal thicknesses to 1/16" for aluminum and 3/64" for steel
+ -Remodeled C-Channel coupler to match updated C-Channel models
+ -Added standoff retainers
+ -Added V5 flywheel weight
+ -Added new gussets
+ -iPart nylon nut
+ -Removed aluminum and nylon hardware in accordance with latest RECF rulings
+ -Reduced diameter of construction cylinders slightly to improve visual clarity when exporting to 3rd party rendering software
 
 ----------------------------------------------------------------------------------------
 V1.3
