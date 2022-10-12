@@ -8,7 +8,7 @@ https://discord.gg/BKV3DJm
 
 If you plan on doing renders and want to see the correct textures, 
 place the iw_metal_02 file in your:
-  C:\Users\Public\Documents\Autodesk\Inventor 2021\Textures\surfaces
+  C:\Users\Public\Documents\Autodesk\Inventor 2023\Textures\surfaces
 Do this with your Inventor closed, and open it after the file is there.
 
 Thank you to the following contributors:
