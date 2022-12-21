@@ -2,7 +2,7 @@
 |---|---|---|---|
 
 # Inventor Library
-## [Latest Release: 1.4.0](https://github.com/VEX-CAD/VEX-CAD-Inventor/releases/latest)
+## [Latest Release: 1.4.1](https://github.com/VEX-CAD/VEX-CAD-Inventor/releases/latest)
 
 This library includes every length of metal, commonly used cut metal, construction circles for ease of constraining, and parametric hardware.  
 
