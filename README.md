@@ -2,14 +2,14 @@
 |---|---|---|---|
 
 # Inventor Library
-## [Latest Release: 1.4.1](https://github.com/VEX-CAD/VEX-CAD-Inventor/releases/latest)
+## [Latest Release: 1.4.2](https://github.com/VEX-CAD/VEX-CAD-Inventor/releases/latest)
 
-This library includes every length of metal, commonly used cut metal, construction circles for ease of constraining, and parametric hardware.  
+This library includes all new pneumatics, wheels, and field elements for the 24-25 game, High Stakes, as well as everything from previous versions.  
 
-The VEX CAD team is also proud to announce the release of version 1.4.1 of the Inventor library! The latest version fixes issues with the 1.4.0 release as well as other minor changes. It is compatible with 1.4.0, but **NOT** any previous versions.
+The VEX CAD team is proud to announce the release of version 1.4.2 of the Inventor library! The latest version adds new parts and fixes issues found in the 1.4.1 release as well as other minor changes. It is compatible with version 1.4.0 or higher, but **NOT** any previous versions.
 
 ### [Parts Library Download](https://github.com/VEX-CAD/VEX-CAD-Inventor/releases/latest)
-The recommended file structure is to have a CAD folder anywhere on your computer, and place the [latest release](https://github.com/VEX-CAD/VEX-CAD-Inventor/releases/latest) in this folder. Every new robot you create will be a new folder in the CAD folder.
+The recommended file structure is to have a CAD folder anywhere on your computer, and place the [latest release](https://github.com/VEX-CAD/VEX-CAD-Inventor/releases/latest) in this folder. Every new robot you create will be a new folder in the CAD folder. It is highly recommended to make an Inventor project file to make everything run smoother (see the [FAQ](https://github.com/VEX-CAD/VEX-CAD-Inventor/wiki)). 
 
 ## [Change Log](https://github.com/VEX-CAD/VEX-CAD-Inventor/blob/main/changelog.txt)
 To see everything changed between versions, check the [changelog](https://github.com/VEX-CAD/VEX-CAD-Inventor/blob/main/changelog.txt)!
@@ -23,6 +23,7 @@ If you need more help, or would like assistance from experienced users, please a
 ## Inventor Library Contributors
  - Boots - 1961Z
  - Charlie - BCUZ
+ - Chase - 1138B
  - Jake - 62A
  - Jess - EZ
  - Jordan - BNS
