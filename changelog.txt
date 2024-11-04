@@ -1,4 +1,4 @@
-VEX CAD Library V1.4
+VEX CAD Library V1.4.2
 
 Check the FAQ here!
 https://github.com/VEX-CAD/VEX-CAD-Inventor/wiki
@@ -14,6 +14,7 @@ Do this with your Inventor closed, and open it after the file is there.
 Thank you to the following contributors:
  -Boots - 1961Z
  -Charlie - BCUZ
+ -Chase - 1138B
  -Jake - 62A
  -Jess - EZ
  -Jordan - BNS
@@ -25,6 +26,42 @@ Thank you to the following contributors:
 
 
 CHANGELOG
+V1.4.2
+ Game Objects
+ -Added the complete High Stakes field layout
+ -Created parts for individual neutral and alliance wall stakes
+ -Organized all files from VEX into a simple to understand file structure
+
+ Hardware:
+ -Fixed metal shaft collar (LS) files
+ -Added Grainger thread-forming nylon nut
+ -Added McMaster-Carr thread-forming nylon nut
+
+ Motion:
+ -Added 2-inch omni wheels
+ 
+ Pneumatics:
+ -Moved all legacy (SMC) pneumatics into a Lecagy pneumatics folder
+ -Added a folder for new (V5) pneumatics
+ -Added new 25mm stroke cylinder
+ -Added new 50mm stroke cylinder
+ -Added new 75mm stroke cylinder
+ -Added new air flow restrictor fitting
+ -Added new air reservoir
+ -Added new elbow fitting
+ -Added new solenoid manifold
+ -Added new fitting plug
+ -Added new on/off valve
+ -Added new pump valve
+ -Added new straight fitting
+ -Added new tee fitting
+
+ Spacers:
+ -Added 7/8in versions of .313 and .375 OD spacers
+
+ Structure:
+ -Fixed c-channel halfcut files not placing with construction circles
+
 V1.4
  Electronics:
  -Added new sensors
