@@ -12,6 +12,7 @@ place the iw_metal_02 file in your:
 Do this with your Inventor closed, and open it after the file is there.
 
 Thank you to the following contributors:
+ -Adi - 1138B
  -Boots - 1961Z
  -Charlie - BCUZ
  -Chase - 1138B
@@ -36,6 +37,7 @@ V1.4.2
  -Fixed metal shaft collar (LS) files
  -Added Grainger thread-forming nylon nut
  -Added McMaster-Carr thread-forming nylon nut
+ -Added Whimsy Tech Flathead star drive screws
 
  Motion:
  -Added 2-inch omni wheels
