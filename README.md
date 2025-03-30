@@ -4,7 +4,7 @@
 # Inventor Library
 ## [Latest Release: 1.4.2](https://github.com/VEX-CAD/VEX-CAD-Inventor/releases/latest)
 
-This library includes all new pneumatics, wheels, and field elements for the 24-25 game, High Stakes, as well as everything from previous versions.  
+This library includes all new pneumatics, flat head whimsy tech screws, wheels, and field elements for the 24-25 game, High Stakes, as well as everything from previous versions.
 
 The VEX CAD team is proud to announce the release of version 1.4.2 of the Inventor library! The latest version adds new parts and fixes issues found in the 1.4.1 release as well as other minor changes. It is compatible with version 1.4.0 or higher, but **NOT** any previous versions.
 
@@ -21,6 +21,7 @@ Please read the [FAQ](https://github.com/VEX-CAD/VEX-CAD-Inventor/wiki) if you'r
 If you need more help, or would like assistance from experienced users, please ask in our [discord server](https://discord.gg/BKV3DJm)!
 
 ## Inventor Library Contributors
+ - Adi - 1138B
  - Boots - 1961Z
  - Charlie - BCUZ
  - Chase - 1138B
